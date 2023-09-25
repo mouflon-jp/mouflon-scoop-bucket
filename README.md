@@ -12,6 +12,23 @@ Setup
 scoop bucket add mouflon-scoop-bucket https://github.com/mouflon-jp/mouflon-scoop-bucket.git
 ```
 
+Update buckets
+---------------
+
+```cmd
+scoop update
+```
+
+
+For developers
+----------------
+
+### Update manifests
+
+```ps
+.\bin\checkver.ps1 -u
+```
+
 Links
 ------
  - [Scoop Official Site](https://scoop.sh/)
