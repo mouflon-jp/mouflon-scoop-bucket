@@ -1,9 +1,7 @@
 mouflon-scoop-bucket
 =====================
 
-Personal bucket for the scoop      
-個人用Scoopバケット   
-
+Personal bucket for the scoop. (個人用Scoopバケット)
 
 Setup
 ------
